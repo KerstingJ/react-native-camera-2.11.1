@@ -6,6 +6,8 @@ import android.content.pm.PackageManager;
 import android.util.Log;
 import android.widget.Toast;
 
+import android.os.Environment;
+
 import com.facebook.react.bridge.*;
 import com.facebook.react.common.build.ReactBuildConfig;
 import com.facebook.react.uimanager.NativeViewHierarchyManager;
